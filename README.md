@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Sock Drawer Technologies**
 
-💬 Ask me about **Web Mapping and Nature**
+💬 Ask me about **Web Mapping, nature and everthing under the sun**
 
 📫 How to reach me **dev.clfm5t12@gmail.com**
 
