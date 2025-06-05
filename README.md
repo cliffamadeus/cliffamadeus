@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cliffamadeus&label=Profile%20views&color=0e75b6&style=flat" alt="cliffamadeus" /> </p>
 
-🌱 I’m currently learning **Sock Drawer Technologies**
+🌱 I’m currently developing **for fun**
 
 💬 Ask me about **Web Mapping, nature and everthing under the sun**
 
