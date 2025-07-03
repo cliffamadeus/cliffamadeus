@@ -9,7 +9,7 @@
 
 📫 How to reach me **dev.clfm5t12@gmail.com**
 
-⚡ Fun fact **I always wake up at 4:00am**
+⚡ Fun fact **I alway go hiking**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
