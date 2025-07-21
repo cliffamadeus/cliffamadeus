@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cliffamadeus&label=Profile%20views&color=0e75b6&style=flat" alt="cliffamadeus" /> </p>
 
-🌱 I’m currently developing **for fun**
+🌱 I’m currently developing **sockdrawer applications**
 
-💬 Ask me about **Web Mapping, nature and everthing under the sun**
+💬 Ask me about **web mapping, nature and everthing under the sun**
 
 📫 How to reach me **dev.clfm5t12@gmail.com**
 
