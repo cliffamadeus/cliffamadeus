@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cliff Amadeus</h1>
-📫 How to reach me **dev.clfm5t12@gmail.com**
+
 <h3 align="center">Git Gud</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cliffamadeus&label=Profile%20views&color=0e75b6&style=flat" alt="cliffamadeus" /> </p>
-💭 Thinking about balloons lately 
-</p>
+
+📫 How to reach me **dev.clfm5t12@gmail.com**
+
+💭 Thinking about balloons lately
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
