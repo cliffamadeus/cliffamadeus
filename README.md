@@ -15,7 +15,7 @@
 <a href="https://www.openstreetmap.org" target="_blank" rel="noreferrer"><img src="https://www.openstreetmap.org/assets/osm_logo-4b074077c29e100f40ee64f5177886e36b570d4cc3ab10c7b263003d09642e3f.svg" alt="osm" width="40" height="40"/></a>
 <a href="https://www.inaturalist.org/pages/api+reference" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png" alt="inaturalist" width="40" height="40"/></a>
 <a href="https://github.com/exif-js" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/12643516?s=200&v=4" alt="exifjs" width="40" height="40"/></a>
-<a href="https://github.com/mattiasw/ExifReader" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png" alt="exifreader" width="40" height="40"/></a>
+<a href="https://github.com/mattiasw/ExifReader" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.freepik.com/512/6393/6393981.png" alt="exifreader" width="40" height="40"/></a>
 </p>
 <!--
 🌍 Check out my interactive web map here: [cliffamadeus.github.io/my-map](https://cliffamadeus.github.io/my-map)
