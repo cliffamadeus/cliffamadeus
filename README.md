@@ -6,7 +6,7 @@
 
 📫 Reach me at **dev.clfm5t12@gmail.com**
 
-💭 Thinking about balloons lately
+💭 Thinking about balloons and buoys lately
 
 
 <h3 align="center">Languages and Tools:</h3>
